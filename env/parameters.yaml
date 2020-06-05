@@ -1,0 +1,12 @@
+adminUser:
+  password: vault:eatersalt/adminUser:password
+  username: admin
+dashboardUrl: https://dashboard.play-jxaas.live
+enableDocker: false
+pipelineUser:
+  email: arcalos-admin@googlegroups.com
+  token: vault:eatersalt/pipelineUser:token
+  username: cb-cloud-native-ci-cd-play[bot]
+prow:
+  hmacToken: vault:eatersalt/prow:hmacToken
+segmentWriteKey: vault:eatersalt:segmentWriteKey
