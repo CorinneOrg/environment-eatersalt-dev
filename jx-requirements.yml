@@ -102,6 +102,6 @@ velero:
   serviceAccount: eatersalt-vo
   ttl: ""
 versionStream:
-  ref: v0.0.466
+  ref: v0.0.473
   url: https://github.com/cloudbees/arcalos-jenkins-x-versions.git
 webhook: lighthouse
